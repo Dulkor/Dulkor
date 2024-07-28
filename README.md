@@ -2,7 +2,7 @@
 - 👀 I’m interested in swimming
 - 🌱 I’m currently learning cryptoworld
 - 💞️ I’m looking to collaborate on ??
-- 📫 How to reach me ...!
+- 📫 How to reach me ...! 
 
 <!---
 Dulkor/Dulkor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
